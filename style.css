@@ -1,5 +1,5 @@
 body {
-    background: red;
+    background: white;
 }
 
 hl {
@@ -11,5 +11,5 @@ p {
 }
 
 em strong{
-    color:  black;
+    color:  rgb(255, 0, 0);
 }
